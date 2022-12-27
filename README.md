@@ -1,5 +1,3 @@
-# stat-189labs
-IBRAHIM
-MELON
-KAMAL
+# stat project
+
 
